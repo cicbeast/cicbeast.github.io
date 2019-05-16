@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Some useful information... but mostly links
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Good Day! I'm Raul, and I'm extremely glad that you'd like to know more about me:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Professional History
 
-What else do you need?
+Feel free to check out my [Linkdn page](https://www.linkedin.com/in/raul-harrington-1b490a56/)
 
-### my history
+### Educational Interests
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm currently enrolled in the **Part Time Data Science** program at *Lambda School*
+
+### Professional Interests
+
+After graduating from the program, I hope to re-enter the workforce, either in a position working on machine learning, or in the Insurance sector working with big data.
+
+### Miscellaneous info
+
+I'm currently a stay at home dad; I love to knit and crochet (Please check out my [Ravelry page](https://www.ravelry.com/people/cicbeast))
