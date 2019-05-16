@@ -17,7 +17,7 @@ baseurl: ""
 title: Raul's DS Blog
 
 # Short description of your site
-description: Everything through the lens of Data Science
+description: Everything through the lens of an aspiring Data Scientist
 
 # --- Navigation bar options --- #
 
@@ -72,10 +72,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  email: "raulgharrington@gmail.com"
+# facebook: daattali
+  github: "github.com/cicbeast"
+# twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -92,8 +92,9 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  github: true
+  facebook: false
   google: false
   linkedin: true
 
